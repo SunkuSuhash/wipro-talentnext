@@ -19,10 +19,10 @@ class Q16 {
 			}
 		}
 		if(isPrime) {
-			System.out.println("prime"+n);
+			System.out.println("prime" +n);
 		}
 		else {
-			System.out.println("not prime");
+			System.out.println("not prime ");
 		}
 
 	}
